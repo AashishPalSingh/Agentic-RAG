@@ -1,0 +1,1 @@
+uv add ipykernel langchain langchain-community langchain-core langchain-groq langgraph langgraph-checkpoint langgraph-prebuilt langgraph-sdk langsmith pydantic python-dotenv langchain_openai bs4 faiss-cpu
